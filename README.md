@@ -19,8 +19,6 @@ EventPro is a Python-based, console-driven Event Management Platform designed to
 - **Programming Language:** Python 3.13
 - **Database:** Microsoft SQL Server
 - **Database Management:** SQL Server Management Studio (SSMS)
-- **Database Connectivity:** pyodbc
-- **Testing:** pytest
 - **IDE:** Visual Studio Code
 
 ## Sprint-wise Development
