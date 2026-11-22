@@ -1,9 +1,3 @@
-
--- ======================================================
--- EventProDB : constraint tests (Sprint 1, S1-T5)
--- Every test row is rolled back at the end, so your data is NOT changed.
--- ======================================================
-
 USE EventProDB;
 GO
 
