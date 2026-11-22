@@ -1,8 +1,3 @@
--- ======================================================
--- EventProDB : schema (Sprint 1)
--- ======================================================
-
--- Create the database only if it does not exist yet
 IF DB_ID('EventProDB') IS NULL
     CREATE DATABASE EventProDB;
 GO
