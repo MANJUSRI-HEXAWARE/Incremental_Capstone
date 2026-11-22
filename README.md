@@ -58,6 +58,4 @@ The project follows an incremental development approach across four sprints.
 
 To develop a reliable and structured event management solution that improves operational efficiency, maintains data consistency, prevents booking conflicts, and supports effective event planning and financial analysis.
 
----
 
-**Project Type:** Incremental Capstone Project
